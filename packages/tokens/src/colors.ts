@@ -3,6 +3,7 @@
 // Tailwind também usa 
 
 export const colors = {
+    
     eletricviolet: {
         50: '#faf4ff',
         100: '#f2e6ff',
@@ -16,6 +17,7 @@ export const colors = {
         900: '#561390',
         950: '#39006c',
     },
+
     turquoise: {
         50: '#ebffff',
         100: '#ccfdff',
@@ -30,8 +32,6 @@ export const colors = {
         950: '#043548',
     },
 
-
-    
     alabaster: {
         50: '#fcfcfc',
         100: '#efefef',
@@ -44,6 +44,8 @@ export const colors = {
         800: '#464646',
         900: '#3d3d3d',
         950: '#292929',
-    }
+    },
+
+    
 }
 

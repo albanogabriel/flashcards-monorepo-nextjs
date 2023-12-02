@@ -20,12 +20,14 @@ export default function Home() {
           <span className='font-bold text-sm text-eletricviolet-400 leading-heading'>JavaScript</span>
           
           <div className='space-y-2'>
+            <div className="flex items-center gap-12">
             <h2 className='font-bold leading-heading'>Fundamentos do JavaScript</h2>
             <div className='flex items-center gap-2'>
               <div className='h-6 w-6'>
                 <ProgressCircle progress={50} />
               </div>
               <span className=' text-alabaster-400 text-sm leading-base'>8/16</span>
+            </div>
             </div>
             <p className=' text-alabaster-800 text-sm leading-base'>Treine seus conhecimentos nos fundamentos do JavaScript como Arrays, variáveis, condicionais e estruturas de repetição.</p>
           </div>
